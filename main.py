@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Program for live video processing that detects two parallel curves in a defined ROI,
 computes the midline between them, and applies smoothing using both an
